@@ -1,5 +1,4 @@
-# CENG 3361 Applied Engineering Hydrology 
-and Hydraulic Design
+# CENG 3361 Applied Engineering Hydrology and Hydraulic Design
 
 ## Rainfall-Runoff Methods: SCS-CN and Rational Methods
 
